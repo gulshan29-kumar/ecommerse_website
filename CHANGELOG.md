@@ -31,3 +31,5 @@ All notable changes to NovaCart will be documented in this file.
 <!-- feat(navbar): add role badge indicators for Shopper, Vendor, and Admin -->
 
 <!-- style(hero): optimize radial gradient lighting on hero banner -->
+
+<!-- style(hero): add subtle micro-interactions to promo cards -->
