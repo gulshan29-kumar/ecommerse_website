@@ -89,3 +89,5 @@ All notable changes to NovaCart will be documented in this file.
 <!-- style(store-add): improve image upload box hover borders -->
 
 <!-- style(admin-coupons): refine active coupon table layout -->
+
+<!-- docs(redux): add JSDoc comments to cartSlice actions -->
