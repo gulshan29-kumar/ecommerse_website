@@ -1,9 +1,15 @@
 {
-  "name": "gocart",
-  "version": "0.1.0",
+  "name": "ecommerse_website",
+  "version": "1.0.0",
   "private": true,
+  "description": "Next.js Multi-Vendor E-Commerce Platform built by Gulshan Kumar (IIIT Ranchi)",
+  "author": "Gulshan Kumar <gulshankumar29082006@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gulshan29-kumar/ecommerse_website.git"
+  },
   "scripts": {
-    "dev": "next dev --turbopack",
+    "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
