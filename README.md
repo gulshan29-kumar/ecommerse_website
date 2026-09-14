@@ -1,85 +1,127 @@
+# 🛍️ NovaCart — Full-Stack Multi-Vendor E-Commerce Platform
+
 <div align="center">
-  <h1><img src="https://gocart-gs.vercel.app/favicon.ico" width="20" height="20" alt="GoCart Favicon">
-   GoCart</h1>
-  <p>
-    An open-source multi-vendor e-commerce platform built with Next.js and Tailwind CSS.
-  </p>
-  <p>
-    <a href="https://github.com/GreatStackDev/goCart/blob/main/LICENSE.md"><img src="https://img.shields.io/github/license/GreatStackDev/goCart?style=for-the-badge" alt="License"></a>
-    <a href="https://github.com/GreatStackDev/goCart/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge" alt="PRs Welcome"></a>
-    <a href="https://github.com/GreatStackDev/goCart/issues"><img src="https://img.shields.io/github/issues/GreatStackDev/goCart?style=for-the-badge" alt="GitHub issues"></a>
-  </p>
+
+[![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
+[![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge&logo=react)](https://react.dev/)
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
+[![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-State-764ABC?style=for-the-badge&logo=redux)](https://redux-toolkit.js.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](./LICENSE.md)
+
+**Built & Maintained by [Gulshan Kumar](https://github.com/gulshan29-kumar)**  
+*Indian Institute of Information Technology Ranchi (IIIT Ranchi)*
+
 </div>
 
 ---
 
-## 📖 Table of Contents
+## 🌟 Overview
 
-- [✨ Features](#-features)
-- [🛠️ Tech Stack](#-tech-stack)
-- [🚀 Getting Started](#-getting-started)
-- [🤝 Contributing](#-contributing)
-- [📜 License](#-license)
+**NovaCart** is a modern, responsive, multi-vendor e-commerce platform developed with **Next.js 15**, **React 19**, **Tailwind CSS v4**, and **Redux Toolkit**. It provides an end-to-end shopping journey with role-based features for shoppers, multi-vendor store managers, and platform administrators.
 
 ---
 
-## Features
+## ✨ Key Features
 
-- **Multi-Vendor Architecture:** Allows multiple vendors to register, manage their own products, and sell on a single platform.
-- **Customer-Facing Storefront:** A beautiful and responsive user interface for customers to browse and purchase products.
-- **Vendor Dashboards:** Dedicated dashboards for vendors to manage products, view sales analytics, and track orders.
-- **Admin Panel:** A comprehensive dashboard for platform administrators to oversee vendors, products, and commissions.
+### 🛒 Customer Experience
+- **Interactive Storefront**: Dynamic hero banner with promotional offer claims, categorized marquee navigation, trending gadgets, and featured collections.
+- **Smart Product Exploration**: Instant search filtering, category filtering (Headphones, Speakers, Smartwatches, Earbuds, Mice, Decor), price & rating sorting.
+- **Product Details**: Multi-angle image preview galleries, expandable specifications, customer review & rating system.
+- **Frictionless Cart & Checkout**:
+  - Live item quantity adjustments and instant subtotal recalculation.
+  - Multi-coupon validation engine (`NEW20` for 20% off, `NEW10`, `OFF20`, etc.).
+  - Address book management with interactive modal creation.
+  - Payment method selection (Cash on Delivery & Stripe simulation).
+  - Real-time order placement with tracking in **My Orders**.
+- **Role Switcher & Authentication Drawer**: Switch seamlessly between **Shopper**, **Vendor**, and **Admin** accounts directly from the navigation bar.
 
-## 🛠️ Tech Stack <a name="-tech-stack"></a>
+### 🏬 Multi-Vendor Portal (`/store`)
+- Dedicated dashboard for vendors to view sales analytics, total earnings, active order queue, and buyer ratings.
+- **Product Management**: Add new inventory with multi-image previews, pricing, categories, stock availability toggles, and catalog management.
+- **Order Management**: Inspect vendor-specific orders and monitor shipping statuses.
 
-- **Framework:** Next.js
-- **Styling:** Tailwind CSS
-- **UI Components:** Lucide React for icons
-- **State Management:** Redux Toolkit
-
-## 🚀 Getting Started <a name="-getting-started"></a>
-
-First, install the dependencies. We recommend using `npm` for this project.
-
-```bash
-npm install
-```
-
-Then, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/(public)/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Outfit](https://vercel.com/font), a new font family for Vercel.
+### 🛡️ Platform Admin Suite (`/admin`)
+- Platform-wide overview with revenue metrics, total orders, active vendor stores, and order volume area charts.
+- **Store Approvals**: Review pending vendor applications, approve registrations, and activate/deactivate stores.
+- **Coupon Engine**: Create new discount codes with expiration dates, target criteria (new users, Plus members), and live discount percentages.
 
 ---
 
-## 🤝 Contributing <a name="-contributing"></a>
+## 🛠️ Tech Stack
 
-We welcome contributions! Please see our [CONTRIBUTING.md](./CONTRIBUTING.md) for more details on how to get started.
+- **Framework**: Next.js 15 (App Router)
+- **Frontend Library**: React 19
+- **State Management**: Redux Toolkit & React-Redux
+- **Styling**: Tailwind CSS v4 with custom glassmorphism, responsive grids, and animations
+- **Icons**: Lucide React
+- **Notifications**: React Hot Toast
+- **Data Visualization**: Recharts & Date-fns
 
 ---
 
-## 📜 License <a name="-license"></a>
+## 🚀 Getting Started
 
-This project is licensed under the MIT License. See the [LICENSE.md](./LICENSE.md) file for details.
+### Prerequisites
+- Node.js 18.x or higher
+- npm / yarn / pnpm
 
-## Learn More
+### Installation
 
-To learn more about Next.js, take a look at the following resources:
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/gulshan29-kumar/ecommerse_website.git
+   cd ecommerse_website
+   ```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+2. **Install dependencies**:
+   ```bash
+   npm install
+   ```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+3. **Configure Environment Variables**:
+   Create a `.env.local` file:
+   ```env
+   NEXT_PUBLIC_CURRENCY_SYMBOL=$
+   ```
+
+4. **Run the Development Server**:
+   ```bash
+   npm run dev
+   ```
+
+5. **Open in Browser**:
+   Navigate to [http://localhost:3000](http://localhost:3000) to view the application.
+
+---
+
+## 🧭 Application Routes
+
+| Path | Description | Access |
+|---|---|---|
+| `/` | Homepage with hero, categories marquee, featured & best-selling products | Public |
+| `/shop` | Product catalog with category pills, search, and sorting | Public |
+| `/product/[productId]` | Detailed product preview, specifications, and rating modal | Public |
+| `/cart` | Cart management, coupon application, and checkout summary | Public |
+| `/orders` | Order history, tracking status, and delivery details | Customer |
+| `/pricing` | Plus membership plans and benefits | Public |
+| `/create-store` | Vendor registration form to open a new digital storefront | Public |
+| `/store` | Vendor dashboard: earnings, analytics, and product catalog | Vendor |
+| `/store/add-product` | Add new inventory items with images, pricing, and category | Vendor |
+| `/admin` | Admin dashboard: platform revenue, store counts, and order trends | Admin |
+| `/admin/coupons` | Add and manage platform promotional discount codes | Admin |
+| `/admin/stores` | Monitor all active and registered multi-vendor stores | Admin |
+
+---
+
+## 👨‍💻 Author
+
+**Gulshan Kumar**  
+Student, Indian Institute of Information Technology Ranchi (IIIT Ranchi)  
+- **GitHub**: [@gulshan29-kumar](https://github.com/gulshan29-kumar)  
+- **Email**: [gulshankumar29082006@gmail.com](mailto:gulshankumar29082006@gmail.com)
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](./LICENSE.md) — feel free to explore, learn, and build upon it!
