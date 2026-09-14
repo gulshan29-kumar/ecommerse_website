@@ -97,3 +97,5 @@ All notable changes to NovaCart will be documented in this file.
 <!-- docs(redux): add JSDoc comments to orderSlice actions -->
 
 <!-- docs(redux): add JSDoc comments to addressSlice actions -->
+
+<!-- docs(redux): add JSDoc comments to ratingSlice actions -->
