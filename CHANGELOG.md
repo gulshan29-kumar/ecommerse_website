@@ -71,3 +71,5 @@ All notable changes to NovaCart will be documented in this file.
 <!-- style(cart): improve empty cart illustration styling -->
 
 <!-- style(cart): enhance cart table header border styling -->
+
+<!-- style(shop): improve category pill active states -->
