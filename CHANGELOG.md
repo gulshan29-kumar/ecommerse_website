@@ -45,3 +45,5 @@ All notable changes to NovaCart will be documented in this file.
 <!-- feat(product-card): enhance star rating color contrast -->
 
 <!-- accessibility(product-card): add aria-label attributes to wishlist button -->
+
+<!-- accessibility(product-card): add aria-label attributes to quick-add button -->
