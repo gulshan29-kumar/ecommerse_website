@@ -101,3 +101,5 @@ All notable changes to NovaCart will be documented in this file.
 <!-- docs(redux): add JSDoc comments to ratingSlice actions -->
 
 <!-- docs(changelog): document v1.0.0 release notes -->
+
+<!-- release: bump version to 1.0.0 and finalize release candidate -->
