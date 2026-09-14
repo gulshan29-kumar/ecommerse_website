@@ -67,3 +67,5 @@ All notable changes to NovaCart will be documented in this file.
 <!-- style(footer): enhance social icon hover backgrounds -->
 
 <!-- style(footer): refine footer text muted color tokens -->
+
+<!-- style(cart): improve empty cart illustration styling -->
