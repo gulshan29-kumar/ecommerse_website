@@ -59,3 +59,5 @@ All notable changes to NovaCart will be documented in this file.
 <!-- style(order-item): enhance status badge pill color vibrancy -->
 
 <!-- style(order-item): improve mobile order item layout hierarchy -->
+
+<!-- style(address-modal): refine input focus rings and border colors -->
