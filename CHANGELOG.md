@@ -51,3 +51,5 @@ All notable changes to NovaCart will be documented in this file.
 <!-- perf(product-card): optimize rating calculation in product card -->
 
 <!-- style(order-summary): refine payment method selection radio card styling -->
+
+<!-- style(order-summary): refine selected address box layout -->
