@@ -1,0 +1,25 @@
+# Changelog
+
+All notable changes to NovaCart will be documented in this file.
+
+## [0.1.0] - 2026-08-15
+### Added
+- Initial Next.js storefront scaffold.
+- Basic product display components.
+
+## [0.5.0] - 2026-09-01
+### Added
+- Multi-vendor store dashboard (`/store`).
+- Admin management suite (`/admin`).
+- Redux Toolkit state infrastructure.
+
+## [1.0.0] - 2026-09-14
+### Added
+- Complete checkout and order tracking pipeline.
+- Working multi-coupon redemption engine.
+- Interactive role switcher for Shopper, Vendor, and Admin personas.
+- Glassmorphic UI redesign by Gulshan Kumar (IIIT Ranchi).
+
+<!-- docs: update README with detailed contribution and badge list -->
+
+<!-- Release Candidate 1.0.0 Finalized -->
