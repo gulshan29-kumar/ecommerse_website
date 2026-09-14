@@ -23,3 +23,5 @@ All notable changes to NovaCart will be documented in this file.
 <!-- docs: update README with detailed contribution and badge list -->
 
 <!-- Release Candidate 1.0.0 Finalized -->
+
+<!-- style(navbar): refine logo typography and hover glow effect -->
