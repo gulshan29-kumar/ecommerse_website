@@ -55,3 +55,5 @@ All notable changes to NovaCart will be documented in this file.
 <!-- style(order-summary): refine selected address box layout -->
 
 <!-- feat(order-summary): add keyboard shortcut for coupon submission -->
+
+<!-- style(order-item): enhance status badge pill color vibrancy -->
