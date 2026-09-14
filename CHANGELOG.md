@@ -81,3 +81,5 @@ All notable changes to NovaCart will be documented in this file.
 <!-- style(orders): improve orders table spacing and hover rows -->
 
 <!-- style(orders): refine empty orders call-to-action button -->
+
+<!-- style(store-manager): improve inventory table cell padding -->
