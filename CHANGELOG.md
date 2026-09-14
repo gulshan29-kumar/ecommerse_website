@@ -37,3 +37,5 @@ All notable changes to NovaCart will be documented in this file.
 <!-- perf(hero): optimize hero model image priority loading -->
 
 <!-- style(marquee): fine-tune infinite scroll animation duration -->
+
+<!-- style(marquee): enhance category pill hover elevation and shadow -->
