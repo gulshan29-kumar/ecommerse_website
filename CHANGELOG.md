@@ -77,3 +77,5 @@ All notable changes to NovaCart will be documented in this file.
 <!-- style(shop): enhance search indicator badge design -->
 
 <!-- style(shop): refine empty catalog state button styling -->
+
+<!-- style(orders): improve orders table spacing and hover rows -->
