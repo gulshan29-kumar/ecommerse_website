@@ -85,3 +85,5 @@ All notable changes to NovaCart will be documented in this file.
 <!-- style(store-manager): improve inventory table cell padding -->
 
 <!-- style(store-manager): refine stock toggle button animation -->
+
+<!-- style(store-add): improve image upload box hover borders -->
