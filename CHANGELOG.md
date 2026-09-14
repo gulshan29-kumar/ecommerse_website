@@ -91,3 +91,5 @@ All notable changes to NovaCart will be documented in this file.
 <!-- style(admin-coupons): refine active coupon table layout -->
 
 <!-- docs(redux): add JSDoc comments to cartSlice actions -->
+
+<!-- docs(redux): add JSDoc comments to productSlice actions -->
