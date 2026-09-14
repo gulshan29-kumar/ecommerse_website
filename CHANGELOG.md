@@ -27,3 +27,5 @@ All notable changes to NovaCart will be documented in this file.
 <!-- style(navbar): refine logo typography and hover glow effect -->
 
 <!-- style(navbar): enhance mobile menu drawer transition timing -->
+
+<!-- feat(navbar): add role badge indicators for Shopper, Vendor, and Admin -->
