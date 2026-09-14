@@ -75,3 +75,5 @@ All notable changes to NovaCart will be documented in this file.
 <!-- style(shop): improve category pill active states -->
 
 <!-- style(shop): enhance search indicator badge design -->
+
+<!-- style(shop): refine empty catalog state button styling -->
