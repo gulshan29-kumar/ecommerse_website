@@ -41,3 +41,5 @@ All notable changes to NovaCart will be documented in this file.
 <!-- style(marquee): enhance category pill hover elevation and shadow -->
 
 <!-- style(product-card): refine card border radius and soft shadow tokens -->
+
+<!-- feat(product-card): enhance star rating color contrast -->
