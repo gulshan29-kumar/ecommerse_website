@@ -63,3 +63,5 @@ All notable changes to NovaCart will be documented in this file.
 <!-- style(address-modal): refine input focus rings and border colors -->
 
 <!-- refactor(address-modal): enhance field-level validation -->
+
+<!-- style(footer): enhance social icon hover backgrounds -->
