@@ -35,3 +35,5 @@ All notable changes to NovaCart will be documented in this file.
 <!-- style(hero): add subtle micro-interactions to promo cards -->
 
 <!-- perf(hero): optimize hero model image priority loading -->
+
+<!-- style(marquee): fine-tune infinite scroll animation duration -->
