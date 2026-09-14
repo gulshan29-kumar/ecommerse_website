@@ -79,3 +79,5 @@ All notable changes to NovaCart will be documented in this file.
 <!-- style(shop): refine empty catalog state button styling -->
 
 <!-- style(orders): improve orders table spacing and hover rows -->
+
+<!-- style(orders): refine empty orders call-to-action button -->
