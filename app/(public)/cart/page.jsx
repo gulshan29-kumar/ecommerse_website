@@ -1,3 +1,8 @@
+/**
+ * Cart Page
+ * Cart item management, live subtotal, and OrderSummary checkout integration.
+ * Authored by Gulshan Kumar (IIIT Ranchi)
+ */
 'use client'
 import Counter from "@/components/Counter";
 import OrderSummary from "@/components/OrderSummary";
