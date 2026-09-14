@@ -33,3 +33,5 @@ All notable changes to NovaCart will be documented in this file.
 <!-- style(hero): optimize radial gradient lighting on hero banner -->
 
 <!-- style(hero): add subtle micro-interactions to promo cards -->
+
+<!-- perf(hero): optimize hero model image priority loading -->
