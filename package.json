@@ -8,6 +8,7 @@
     "type": "git",
     "url": "https://github.com/gulshan29-kumar/ecommerse_website.git"
   },
+  "homepage": "https://ecommersewebsite2-av2ozji8o-gold-price-predictor.vercel.app/",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

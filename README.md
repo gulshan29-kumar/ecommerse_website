@@ -7,9 +7,13 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-v4-38B2AC?style=for-the-badge&logo=tailwind-css)](https://tailwindcss.com/)
 [![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-State-764ABC?style=for-the-badge&logo=redux)](https://redux-toolkit.js.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](./LICENSE.md)
+[![Deployed on Vercel](https://img.shields.io/badge/Vercel-Live_Demo-000000?style=for-the-badge&logo=vercel)](https://ecommersewebsite2-av2ozji8o-gold-price-predictor.vercel.app/)
 
 **Built & Maintained by [Gulshan Kumar](https://github.com/gulshan29-kumar)**  
 *Indian Institute of Information Technology Ranchi (IIIT Ranchi)*
+
+### 🔗 **[🌐 NovaCart — Live Demo on Vercel](https://ecommersewebsite2-av2ozji8o-gold-price-predictor.vercel.app/)**
+**Live URL**: [https://ecommersewebsite2-av2ozji8o-gold-price-predictor.vercel.app/](https://ecommersewebsite2-av2ozji8o-gold-price-predictor.vercel.app/)
 
 </div>
 
@@ -95,6 +99,8 @@
 ---
 
 ## 🚀 Deploy to Vercel
+
+> **Live Deployment**: This project is deployed and live at [https://ecommersewebsite2-av2ozji8o-gold-price-predictor.vercel.app/](https://ecommersewebsite2-av2ozji8o-gold-price-predictor.vercel.app/)
 
 ### Option 1: One-Click Deploy via Vercel Dashboard (Recommended)
 
