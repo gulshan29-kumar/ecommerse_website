@@ -94,6 +94,34 @@
 
 ---
 
+## 🚀 Deploy to Vercel
+
+### Option 1: One-Click Deploy via Vercel Dashboard (Recommended)
+
+1. Push your code to your GitHub repository:
+   ```bash
+   git add .
+   git commit -m "Prepare for Vercel deployment"
+   git push origin main
+   ```
+2. Go to [vercel.com/new](https://vercel.com/new) and import your `ecommerse_website` repository.
+3. In **Environment Variables**, add:
+   - `NEXT_PUBLIC_CURRENCY_SYMBOL` = `$` (or your preferred currency symbol like `₹` or `€`)
+4. Click **Deploy**. Vercel will automatically build and serve the application globally.
+
+### Option 2: Deploy via Vercel CLI
+
+Run the following command from the root directory:
+```bash
+npx vercel
+```
+For production deployment:
+```bash
+npx vercel --prod
+```
+
+---
+
 ## 🧭 Application Routes
 
 | Path | Description | Access |
